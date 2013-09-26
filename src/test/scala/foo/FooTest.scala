@@ -1,3 +1,3 @@
 package foo
 
-class FooTest
+class XXX
